@@ -1,5 +1,8 @@
 #include <stdio.h>
 void main()
+/*Leia dois conjuntos (A e B) com 20 números reais cada e monte
+um conjunto C, onde cada elemento de C é a subtração do
+elemento correspondente de A com B.*/
 {
     int i, conjA[20], conjB[20], conjC[20];
 

@@ -1,5 +1,8 @@
 #include <stdio.h>
 void main ()
+/*Leia um conjunto A de 8 números inteiros e gere em um conjunto
+B com o mesmo tamanho, com todos os elementos do conjunto A
+multiplicados por 3, e no fim, apresente o conjunto B.*/
 {
     int i, conjA[8], conjB[8];
 
